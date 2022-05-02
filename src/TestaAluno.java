@@ -14,8 +14,8 @@ public class TestaAluno {
 		referencia2.nome = "Craudete do Morro";
 		referencia2.dtnasc = "31/11/2007";
 		
-		System.out.println("Nome: " + referencia.nome + " rg: " + referencia.rg + "Data de nascimento: " + referencia.dtnasc);
-		System.out.println("Nome: " + referencia2.nome + " rg: " + referencia2.rg + "Data de nascimento: " + referencia2.dtnasc);
+		System.out.println("Nome: " + referencia.nome + " rg: ," + referencia.rg + " Data de nascimento: " + referencia.dtnasc);
+		System.out.println("Nome: " + referencia2.nome + " rg: ," + referencia2.rg + " Data de nascimento: " + referencia2.dtnasc);
 	}
 
 }
