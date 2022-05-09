@@ -1,8 +1,8 @@
 
 public class Cartão {
 
-	public int numero;
-	public int dt_valid;
+	public String numero;
+	public String dt_valid;
 	public String tipo;
 	public Cliente cliente;
 }
